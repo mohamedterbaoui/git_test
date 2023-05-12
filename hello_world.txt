@@ -1,1 +1,2 @@
 Testing git and github
+setting up everything on linux
